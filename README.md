@@ -69,6 +69,6 @@ The scripts in this repo is implemented based on previousworks. The major contri
 GCN model locates in `pyGCN` directory is from [this repo](https://github.com/tkipf/pygcn), which is the official implement of [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 #### GAT model:
 GAT model locates in `pyGAT` directory is from [this repo](https://github.com/Diego999/pyGAT), which is the official implement of paper [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
-#### GAT model:
+#### Attack model:
 The code for attack in `stealing_link` directory is from [this repo](https://github.com/xinleihe/link_stealing_attack), which is the official implement of paper [Stealing Links from Graph Neural Networks](https://arxiv.org/abs/2005.02131)
 
